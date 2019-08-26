@@ -9,7 +9,7 @@ and others.
 
 ## Pre-Requisites
 
-In order to run this workshop, you will need:
+In order to run this workshop, you will need:   
 
 * A valid Github account
 * A working Docker setup (if running on Windows, make sure to use Linux containers)
@@ -30,7 +30,7 @@ a large Ecuadorian-based grocery retailer interested in improving their
 [Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview)
 using data. For the purposes of this workshop, we have combined and simplified
 their data sets, as our goal is not to find the best predictions, but to
-demonstrate how to implement CD4ML.
+demonstrate how to implement 
 
 ## Collaborators
 
